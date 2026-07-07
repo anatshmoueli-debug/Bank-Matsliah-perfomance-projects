@@ -1,0 +1,10 @@
+BankerID,LastName,FirstName,Title,TitleOfCourtesy,BirthDate,HireDate,Address,City,Phone,ReportsTo
+1,Berezovsky,Boris,Banker,Mr.,12/8/1968,5/1/2022,Address 111,Tel Aviv,(53) 111-1111,6
+2,Hodorkovsky,Michael,Banker,Mr.,2/19/1972,8/14/2022,Address 112,Tel Aviv,(53) 111-1111,6
+3,Vexelberg,Avigdor,Banker,Mr.,8/30/1993,4/1/2021,Address 113,Tel Aviv,(53) 211-1123,6
+4,Buskila,Lea,Client Manager,Ms.,9/19/1987,5/3/2013,Address 114,Jerusalem,(54) 314-5121,5
+5,Shmueli,Michael,Branch Manager,Mr.,3/4/1962,10/17/2014,Address 115,Rosh ha Ain,(50) 318-5201,
+6,Shmueli,Anat,Client Manager,Mrs.,12/4/1979,10/17/2014,Address 116,Rosh ha Ain,(52) 111-1111,5
+7,Tsuberi,Sara,Banker,Mrs.,5/29/1980,1/2/2007,Address 117,Rosh ha Ain,(53) 111-2221,5
+8,Ashual,Chaim,Banker,Mr.,1/9/1988,3/5/2020,Address 118,Rosh ha Ain,(53) 111-1111,5
+9,Biton,Naomi,Mortage Consultant,Mrs.,1/27/1966,11/15/2020,Address 119,Tel Aviv,(53) 111-1111,4
