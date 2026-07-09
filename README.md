@@ -121,6 +121,7 @@ Created interactive dashboards with KPIs, slicers, and business visualizations.
 # 📫 Contact
 
 📧 Email: **anatshmoueli@gmail.com**
+
 💼 LinkedIn: 
 
 ---
