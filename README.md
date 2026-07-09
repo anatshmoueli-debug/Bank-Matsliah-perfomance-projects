@@ -114,15 +114,14 @@ Created interactive dashboards with KPIs, slicers, and business visualizations.
 # 🎓 Education
 
 - 🎓 Data Analyst Program – John Bryce College (**Graduated with Honors**)
-- 🎓 Bachelor's Degree in Economics (Banking & Accounting). Degree recognized by the Israeli Ministry of Education
+- 🎓 Bachelor's Degree in Economics (Banking & Accounting). The Degree recognized by the Israeli Ministry of Education
   
 ---
 
 # 📫 Contact
 
 📧 Email: **anatshmoueli@gmail.com**
-
-💼 LinkedIn: *(Add your LinkedIn profile here)*
+💼 LinkedIn: 
 
 ---
 
