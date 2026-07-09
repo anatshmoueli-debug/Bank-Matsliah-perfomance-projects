@@ -92,7 +92,7 @@ Performed business data analysis using joins, aggregations, window functions, an
 ## 🐍 Python Data Analysis
 
 **Technologies**
-- Python (Pandas- and Matplotlib libraries)
+- Python (Pandas and Matplotlib)
 
 **Description**
 Data cleaning, analysis, visualization, and business reporting using Python.
