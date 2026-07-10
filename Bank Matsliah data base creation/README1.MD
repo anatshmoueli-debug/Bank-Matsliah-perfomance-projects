@@ -135,26 +135,6 @@ The project followed the complete database development lifecycle:
 
 ---
 
-# 📁 Repository Structure
-
-```
-📂 SQL
-│
-├── Database Creation Script
-├── Table Definitions
-├── Primary Keys
-├── Foreign Keys
-├── Constraints
-├── Insert Statements
-
-📂 Documentation
-│
-├── ERD Diagram
-├── Database Description
-```
-
----
-
 # 🚀 Future Development
 
 This relational database serves as the foundation for future analytical projects, including:
