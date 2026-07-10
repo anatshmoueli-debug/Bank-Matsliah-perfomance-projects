@@ -232,7 +232,7 @@ The analysis revealed several important business insights:
 
 **Anat Shmueli**
 
-**Data Analyst**
+**Data Analyst | Database Analyst**
 
 📧 anatshmoueli@gmail.com
 
