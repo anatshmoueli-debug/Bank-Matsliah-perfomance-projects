@@ -179,16 +179,6 @@ The analysis identified several important business insights:
 
 ---
 
-# 📂 Repository Contents
-
-- 📄 SQL Database Script
-- 🐍 Python Analysis Script
-- 📊 Project Presentation
-- 📁 CSV Data Files
-- 📖 Project Documentation
-
----
-
 # 💼 Skills Demonstrated
 
 - Relational Database Design
@@ -225,8 +215,6 @@ Potential future enhancements include:
 **Data Analyst | Database Analyst**
 
 📧 anatshmoueli@gmail.com
-
-💼 Open to Data Analyst / BI Analyst opportunities
 
 ---
 
