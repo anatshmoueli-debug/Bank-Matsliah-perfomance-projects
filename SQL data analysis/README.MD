@@ -113,7 +113,7 @@ The project answers ten business questions, including:
 
 ---
 
-# 💻 SQL Techniques Used
+# 💻 SQL Techniques
 
 This project demonstrates advanced SQL programming techniques, including:
 
