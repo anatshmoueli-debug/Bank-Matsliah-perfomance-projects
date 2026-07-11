@@ -166,7 +166,7 @@ The project includes:
 
 ---
 
-# 💻 Technologies Used
+# 💻 Technologies 
 
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
